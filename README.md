@@ -1,6 +1,10 @@
 # -Spotfiy-Data-Pipeline-End-To-End-Python-Data-Engineering-Project
 ## Project Overview
 This project focuses on extracting data from Spotify using the Spotify API and processing it through Amazon Web Services (AWS) for analysis and visualization.
+## Architecture
+![Data Architecture](./images/logo.png)
+
+
 
 ## Key Features
 - **Data Extraction:** Retrieve data on playlists, tracks, artists, and albums from Spotify.
