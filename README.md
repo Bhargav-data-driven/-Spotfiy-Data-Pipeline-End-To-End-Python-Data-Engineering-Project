@@ -2,8 +2,8 @@
 ## Project Overview
 This project focuses on extracting data from Spotify using the Spotify API and processing it through Amazon Web Services (AWS) for analysis and visualization.
 ## Architecture
-![Data Architecture](./images/logo.png)
 
+<img src="https://github.com/Bhargav-data-driven/-Spotfiy-Data-Pipeline-End-To-End-Python-Data-Engineering-Project/blob/main/spotify.jpg" alt="Data Architecture" width="400" height="300">
 
 
 ## Key Features
